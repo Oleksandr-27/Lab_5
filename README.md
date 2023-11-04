@@ -11,6 +11,10 @@
   - user_name
   - password
   
+class User():
+
+
+
 - Cтворіть метод
   - метод для зміни паролю
  
